@@ -1,5 +1,5 @@
 # CiTools
-## This repo contains Jenkinsfile and Dockerfile to Build SampleCI Apps
+## Jenkinsfile and Dockerfile to Build SampleCI Apps
 #### DemoApp.groovy
  Jenkinsfile for DemoApp:
 	Groovy script to perform release and debug for the app.
